@@ -1,5 +1,8 @@
 
 created for cr1
 
+<<<<<<< HEAD
 
-th check conflict
+=======
+this is for conflict
+>>>>>>> phase2
