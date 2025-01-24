@@ -2,4 +2,7 @@ new file creaated to test gitignore
 
 to test stash - -
 
-to test branch conflict
+to test branch conflicts
+
+in master `:x!
+
