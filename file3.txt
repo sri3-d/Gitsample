@@ -1,3 +1,5 @@
 new file creaated to test gitignore
 
-to test stash - - 
+to test stash - -
+
+to test branch conflict
